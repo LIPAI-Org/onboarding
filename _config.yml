@@ -2,4 +2,4 @@ title: "Onboarding LIPAI"
 description: "Curso de extensão gratuito em programação e IA"
 url: "https://lipai-org.github.io"
 baseurl: "/onboarding"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
