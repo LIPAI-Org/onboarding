@@ -5,7 +5,7 @@ title: "Início - Onboarding LIPAI"
 
 # Onboarding LIPAI - Pesquisa Científica
 ## Curso de extensão gratuito
-### Laboratório Interdisciplinar de Processamento e Análise de Imagens (LIPAI) – FACOM/UFU
+### Laboratório Interdisciplinar de Processamento e Análise de Imagens (LIPAI)
 
 **Período:** 03/08/2026 a 07/12/2026
 
