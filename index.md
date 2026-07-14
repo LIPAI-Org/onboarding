@@ -152,17 +152,9 @@ O LIPAI reúne estudantes, pesquisadores e professores interessados em Computaç
 ---
 
 ## Inscrição
+As inscrições para o Onboarding LIPAI já estão abertas e são realizadas por meio do nosso formulário eletrônico. 
 
-(Será um formulário separado em outra página)
-
-As inscrições são realizadas por meio de um formulário eletrônico. Serão solicitadas informações como:
-* Nome completo, e-mail e CPF;
-* Matrícula (quando houver), idade e endereço;
-* Escolaridade e instituição;
-* Conhecimento prévio em computação;
-* Participação em outros projetos;
-* Como conheceu o curso;
-* Motivação para participar.
+**[Clique aqui para acessar o formulário de inscrição](https://docs.google.com/forms/d/e/1FAIpQLSdca_3RaK2qaUBPX9EE5e_4U03jY7oLfauwLO6i3m7mHskQeg/viewform?usp=dialog)**
 
 ---
 
