@@ -151,6 +151,16 @@ O LIPAI reúne estudantes, pesquisadores e professores interessados em Computaç
 
 ---
 
+## Edital - Processo de Seleção
+Para essa edição, o processo de seleção segue as regras abaixo:
+
+* Período de inscrição: [data de início] a [data de encerramento] (a definir)
+* Número de vagas: 30
+* Critério de seleção: ordem de inscrição — as vagas são preenchidas por ordem de chegada, até completar o número total de vagas disponíveis
+* Divulgação do resultado: [data] (a definir)
+
+---
+
 ## Inscrição
 As inscrições para o Onboarding LIPAI já estão abertas e são realizadas por meio do nosso formulário eletrônico. 
 
