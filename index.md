@@ -23,17 +23,12 @@ O curso é destinado a estudantes de graduação, profissionais, membros da comu
 
 ## O que você vai aprender
 
-### Módulo 1 — Apresentação do curso
-
-### Módulo 2 — Fundamentos de Python para Ciência de Dados
-
-### Módulo 3 — Aprendizagem de Máquina
-
-### Módulo 4 — Classificação com Aprendizagem Profunda
-
-### Módulo 5 — Segmentação com Aprendizagem Profunda
-
-### Módulo 6 — Mini-projeto
+- **Módulo 1** — Apresentação do curso
+- **Módulo 2** — Fundamentos de Python para Ciência de Dados
+- **Módulo 3** — Aprendizagem de Máquina
+- **Módulo 4** — Classificação com Aprendizagem Profunda
+- **Módulo 5** — Segmentação com Aprendizagem Profunda
+- **Módulo 6** — Mini-projeto
 
 
 ## Inscrições
