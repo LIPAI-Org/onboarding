@@ -52,13 +52,6 @@ O curso é destinado a estudantes de graduação, profissionais, membros da comu
 
 ---
 
-## Comunidade LIPAI
-O LIPAI reúne estudantes, pesquisadores e professores interessados em Computação, Ciência de Dados e Inteligência Artificial aplicada à pesquisa científica.
-
-*(Espaço reservado para apresentar membros atuais, egressos, depoimentos ou projetos desenvolvidos pelo laboratório.)*
-
----
-
 ## Inscrição
 Para essa edição, o processo de seleção segue as regras abaixo:
 
@@ -74,3 +67,11 @@ Para essa edição, o processo de seleção segue as regras abaixo:
 Entre em contato com a equipe do LIPAI ou acompanhe nossos canais oficiais para obter informações sobre o processo de inscrição, divulgação dos resultados e início das atividades.
 
 **Esperamos você no Onboarding LIPAI!**
+<!--
+---
+
+## Comunidade LIPAI
+O LIPAI reúne estudantes, pesquisadores e professores interessados em Computação, Ciência de Dados e Inteligência Artificial aplicada à pesquisa científica.
+
+*(Espaço reservado para apresentar membros atuais, egressos, depoimentos ou projetos desenvolvidos pelo laboratório.)*
+-->
