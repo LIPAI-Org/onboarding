@@ -18,7 +18,14 @@ O *Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Aberta e
 
 Ao longo do curso você aprenderá desde os primeiros passos em Python até a construção de um projeto utilizando técnicas de aprendizagem profunda para classificação e segmentação de imagens com dados reais.
 
-O curso busca aproximar a universidade da sociedade por meio da formação gratuita em computação e IA aplicada à pesquisa científica.
+É importante destacar que este curso não aborda IA generativa, LLMs ou VLMs; não é um curso de detecção de objetos ou identificação de objetos; e não é um curso avançado de Python.
+
+---
+
+## Quem pode participar?
+O curso é destinado a estudantes de graduação, profissionais, membros da comunidade externa e a qualquer pessoa interessada em usar aprendizado profundo em seus projetos, mas que não sabe por onde começar.
+
+*Não é necessário possuir experiência sólida em programação. O curso foi planejado para atender iniciantes, mas também oferece desafios para quem já possui conhecimentos prévios.*
 
 ---
 
@@ -35,20 +42,6 @@ O curso busca aproximar a universidade da sociedade por meio da formação gratu
 ### Módulo 5 — Segmentação com Aprendizagem Profunda
 
 ### Módulo 6 — Mini-projeto
-
----
-
-## É importante destacar que este curso:
-* **Não aborda** IA Generativa, LLMs ou VLMs;
-* **Não é** um curso de detecção de objetos ou identificação de objetos;
-* **Não é** um curso avançado de Python.
-
----
-
-## Quem pode participar?
-O curso é destinado a estudantes de graduação, profissionais, membros da comunidade externa e a qualquer pessoa interessada em usar aprendizado profundo em seus projetos, mas que não sabe por onde começar.
-
-*Não é necessário possuir experiência sólida em programação. O curso foi planejado para atender iniciantes, mas também oferece desafios para quem já possui conhecimentos prévios.*
 
 ---
 
