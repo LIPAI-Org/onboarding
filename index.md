@@ -4,14 +4,8 @@ title: "Início - Onboarding LIPAI"
 ---
 
 # Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Aberta em Computação
-## Curso de extensão gratuito
 ### Laboratório Interdisciplinar de Processamento e Análise de Imagens (LIPAI)
-
-**Período:** 03/08/2026 a 07/12/2026
-
-Aprenda programação e Inteligência Artificial aplicada à pesquisa científica.
-
----
+Curso de extensão gratuito sobre programação e Inteligência Artificial aplicada à pesquisa científica.
 
 ## Sobre o Curso
 O *Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Aberta em Computação* é um curso online de extensão voltado para quem deseja aprender programação e Inteligência Artificial de forma prática, desenvolvendo projetos com dados e imagens reais.
@@ -20,14 +14,12 @@ Ao longo do curso você aprenderá desde os primeiros passos em Python até a co
 
 É importante destacar que este curso não aborda IA generativa, LLMs ou VLMs; não é um curso de detecção de objetos ou identificação de objetos; e não é um curso avançado de Python.
 
----
 
 ## Quem pode participar?
 O curso é destinado a estudantes de graduação, profissionais, membros da comunidade externa e a qualquer pessoa interessada em usar aprendizado profundo em seus projetos, mas que não sabe por onde começar.
 
 *Não é necessário possuir experiência sólida em programação. O curso foi planejado para atender iniciantes, mas também oferece desafios para quem já possui conhecimentos prévios.*
 
----
 
 ## O que você vai aprender
 
@@ -43,7 +35,6 @@ O curso é destinado a estudantes de graduação, profissionais, membros da comu
 
 ### Módulo 6 — Mini-projeto
 
----
 
 ## Inscrições
 Para essa edição, o processo de seleção segue as regras abaixo:
@@ -54,7 +45,6 @@ Para essa edição, o processo de seleção segue as regras abaixo:
 
 **[Clique aqui para acessar o formulário de inscrição](ORIENTACOES_INSCRICAO.pdf)**
 
----
 
 ### Ainda ficou com dúvidas?
 Entre em contato com a equipe do LIPAI ou acompanhe nossos canais oficiais para obter informações sobre o processo de inscrição, divulgação dos resultados e início das atividades.
