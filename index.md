@@ -66,7 +66,7 @@ Para essa edição, o processo de seleção segue as regras abaixo:
 * Número de vagas: 30
 * Divulgação do resultado: 03/08/2026
 
-**[Clique aqui para acessar o formulário de inscrição]([https://docs.google.com/forms/d/e/1FAIpQLSdca_3RaK2qaUBPX9EE5e_4U03jY7oLfauwLO6i3m7mHskQeg/viewform?usp=dialog](https://github.com/LIPAI-Org/onboarding/blob/main/ORIENTA%C3%87%C3%95ES%20PARA%20INSCRI%C3%87%C3%83O.pdf))**
+**[Clique aqui para acessar o formulário de inscrição](ORIENTACOES_INSCRICAO.pdf)**
 
 ---
 
