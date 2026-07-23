@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Início - Onboarding LIPAI"
+title: "Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Aberta em Computação"
 ---
 
 # Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Aberta em Computação
