@@ -45,7 +45,7 @@ O curso é destinado a estudantes de graduação, profissionais, membros da comu
 
 ---
 
-## Inscrição
+## Inscrições
 Para essa edição, o processo de seleção segue as regras abaixo:
 
 * Período de inscrição: 27/07/2026 a 31/07/2026
