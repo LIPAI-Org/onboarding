@@ -34,9 +34,9 @@ O curso é destinado a estudantes de graduação, profissionais, membros da comu
 ## Inscrições
 Para essa edição, o processo de seleção segue as regras abaixo:
 
-* Período de inscrição: 27/07/2026 a 31/07/2026
-* Número de vagas: 30
-* Divulgação do resultado: 03/08/2026
+- **Período de inscrição:** 27/07/2026 a 31/07/2026
+- **Número de vagas:** 30
+- **Divulgação do resultado:** 03/08/2026
 
 **[Clique aqui para acessar o formulário de inscrição](ORIENTACOES_INSCRICAO.pdf)**
 
@@ -44,7 +44,7 @@ Para essa edição, o processo de seleção segue as regras abaixo:
 ### Ainda ficou com dúvidas?
 Entre em contato com a equipe do LIPAI ou acompanhe nossos canais oficiais para obter informações sobre o processo de inscrição, divulgação dos resultados e início das atividades.
 
-**Esperamos você no Onboarding LIPAI!**
+**Esperamos você no onboarding!**
 <!--
 ---
 
