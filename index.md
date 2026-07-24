@@ -45,6 +45,7 @@ Para essa edição, o processo de seleção segue as regras abaixo:
 Entre em contato com a equipe do LIPAI ou acompanhe nossos canais oficiais para obter informações sobre o processo de inscrição, divulgação dos resultados e início das atividades.
 
 **Esperamos você no onboarding!**
+
 <!--
 ---
 
