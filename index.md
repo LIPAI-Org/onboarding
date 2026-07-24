@@ -37,7 +37,7 @@ Para essa edição, o processo de seleção segue as regras abaixo:
 - **Número de vagas:** 30
 - **Divulgação do resultado:** 03/08/2026
 
-**[Clique aqui para acessar o formulário de inscrição](ORIENTACOES_INSCRICAO.pdf)**
+**[Clique aqui para acessar as orientações de inscrição](ORIENTACOES_INSCRICAO.pdf)**
 
 
 ### Ainda ficou com dúvidas?
