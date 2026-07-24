@@ -5,10 +5,9 @@ title: "Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Abe
 
 # Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Aberta em Computação
 ### Laboratório Interdisciplinar de Processamento e Análise de Imagens - LIPAI
-Curso de extensão gratuito sobre programação e Inteligência Artificial aplicada à pesquisa científica.
 
 ## Sobre o Curso
-O *Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Aberta em Computação* é um curso online de extensão voltado para quem deseja aprender programação e Inteligência Artificial de forma prática, desenvolvendo projetos com dados e imagens reais.
+O *Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Aberta em Computação* é um curso de extensão gratuito voltado para quem deseja aprender programação e Inteligência Artificial aplicada à pesquisa científica de forma prática, desenvolvendo projetos com dados e imagens reais.
 
 Ao longo do curso você aprenderá desde os primeiros passos em Python até a construção de um projeto utilizando técnicas de aprendizagem profunda para classificação e segmentação de imagens com dados reais.
 
