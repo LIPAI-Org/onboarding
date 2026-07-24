@@ -1,87 +1,196 @@
+
 :root {
-    --primary-color: #0366d6;
-    --bg-color: #f6f8fa;
-    --text-color: #24292e;
-    --border-color: #e1e4e8;
+    --primary-color: #4A90E2; /* Um azul mais moderno e limpo */
+    --accent-color: #50E3C2; /* Cor de destaque, tipo verde água, remetendo a tecnologia */
+    --text-color: #e0e0e0; /* Texto claro */
+    --heading-color: #ffffff; /* Títulos brancos */
+    --bg-color-dark: #121212; /* Fundo escuro */
+    --bg-color-card: rgba(30, 30, 30, 0.85); /* Fundo dos cartões meio transparente */
+    --border-color: rgba(255, 255, 255, 0.1);
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background-color: var(--bg-color);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     color: var(--text-color);
-    line-height: 1.6;
+    line-height: 1.7;
     margin: 0;
     padding: 0;
+    
+    /* Background complexo: imagens histológicas (textura) + redes neurais (pontos e linhas) */
+    background-color: var(--bg-color-dark);
+    
+    /* Vamos usar um padrão de gradientes radiais que lembram células/neurônios */
+    background-image: 
+        radial-gradient(circle at 15% 50%, rgba(74, 144, 226, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 85% 30%, rgba(80, 227, 194, 0.1) 0%, transparent 50%),
+        /* Padrão estilo rede neural sutil */
+        linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+    background-size: 100% 100%, 100% 100%, 30px 30px, 30px 30px;
+    background-attachment: fixed;
+}
+
+/* Adicionando um pseudo-elemento para criar um efeito de textura histológica abstrata p/b transparente */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Padrão que imita tecido / células (SVG inline) */
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M54.627 0l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zM59.6 0l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zM64.57.83l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69zm-1.66-1.66l.83.83-2.69 2.69-.83-.83 2.69-2.69z' fill='%23ffffff' fill-opacity='0.03' fill-rule='evenodd'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: -1;
 }
 
 .wrapper {
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 40px;
-    background: #ffffff;
-    border-radius: 8px;
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 50px;
+    background: var(--bg-color-card);
+    border-radius: 12px;
     border: 1px solid var(--border-color);
-    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.4), 0 5px 15px rgba(0,0,0,0.3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 
 h1, h2, h3 {
-    color: #1b1f23;
-    margin-top: 1.5em;
-    margin-bottom: 16px;
-    font-weight: 600;
+    color: var(--heading-color);
+    font-weight: 700;
+    letter-spacing: -0.5px;
 }
 
 h1 {
-    font-size: 2em;
-    border-bottom: 1px solid var(--border-color);
-    padding-bottom: 0.3em;
+    font-size: 2.5em;
     margin-top: 0;
+    margin-bottom: 0.2em;
+    line-height: 1.2;
+    background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-bottom: none;
+}
+
+h1 + h3 {
+    margin-top: 0;
+    color: #a0a0a0;
+    font-weight: 400;
+    font-size: 1.2em;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.8em;
+    margin-top: 2em;
     border-bottom: 1px solid var(--border-color);
-    padding-bottom: 0.3em;
+    padding-bottom: 10px;
+    display: inline-block;
+    position: relative;
+}
+
+h2::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 50px;
+    height: 2px;
+    background: var(--accent-color);
 }
 
 a {
-    color: var(--primary-color);
+    color: var(--accent-color);
     text-decoration: none;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #ffffff;
+    text-shadow: 0 0 8px rgba(80, 227, 194, 0.6);
+    text-decoration: none;
+}
+
+/* Estilo para o link principal (Inscrição) */
+a[href$=".pdf"], a[href*="formulario"] {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    box-shadow: 0 4px 15px rgba(74, 144, 226, 0.4);
+    margin-top: 15px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    -webkit-text-fill-color: #fff; /* Override para o link que parece botão */
+}
+
+a[href$=".pdf"]:hover, a[href*="formulario"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(74, 144, 226, 0.6);
+    color: #fff;
+    text-shadow: none;
 }
 
 hr {
     height: 1px;
     padding: 0;
-    margin: 30px 0;
+    margin: 40px 0;
     background-color: var(--border-color);
     border: 0;
 }
 
 blockquote {
-    border-left: 4px solid #dfe2e5;
-    color: #6a737d;
-    padding: 0 1em;
-    margin: 0 0 16px 0;
+    border-left: 4px solid var(--accent-color);
+    color: #b0b0b0;
+    padding: 10px 20px;
+    margin: 20px 0;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
 }
 
 ul {
-    padding-left: 2em;
-    margin-bottom: 16px;
+    padding-left: 20px;
+    list-style-type: none;
 }
 
-li {
-    margin-bottom: 0.25em;
+ul li {
+    margin-bottom: 12px;
+    position: relative;
+    padding-left: 25px;
+}
+
+ul li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--accent-color);
+    font-weight: bold;
 }
 
 footer {
-    margin-top: 50px;
+    margin-top: 60px;
     text-align: center;
-    font-size: 0.85em;
-    color: #6a737d;
+    font-size: 0.9em;
+    color: #888;
     border-top: 1px solid var(--border-color);
-    padding-top: 20px;
+    padding-top: 30px;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .wrapper {
+        margin: 20px;
+        padding: 30px 20px;
+    }
+    
+    h1 {
+        font-size: 2em;
+    }
 }
