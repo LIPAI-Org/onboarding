@@ -4,7 +4,7 @@ title: "Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Abe
 ---
 
 # Programadores no Onboarding LIPAI e Pesquisa Científica: Formação Aberta em Computação
-### Laboratório Interdisciplinar de Processamento e Análise de Imagens (LIPAI)
+### Laboratório Interdisciplinar de Processamento e Análise de Imagens - LIPAI
 Curso de extensão gratuito sobre programação e Inteligência Artificial aplicada à pesquisa científica.
 
 ## Sobre o Curso
