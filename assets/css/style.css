@@ -10,9 +10,9 @@
     
     /* VARIÁVEIS DE CONTROLE DE OPACIDADE DO BACKGROUND */
     /* Aumente esses valores (de 0.0 a 1.0) para deixar os fundos mais escuros/visíveis */
-    --bg-histo-opacity: 0.00;      /* Controla a opacidade das formas celulares */
-    --bg-noise-opacity: 0.00;      /* Controla a textura de ruído da microscopia */
-    --bg-network-opacity: 0.60;    /* Controla a opacidade do diagrama da rede neural */
+    --bg-histo-opacity: 0.45;      /* Controla a opacidade das formas celulares */
+    --bg-noise-opacity: 0.20;      /* Controla a textura de ruído da microscopia */
+    --bg-network-opacity: 1.00;    /* Controla a opacidade do diagrama da rede neural */
 }
 
 body {
